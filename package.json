@@ -1,0 +1,34 @@
+{
+  "name": "happy_budget",
+  "version": "1.0.0",
+  "description": "Budget Management App",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "babel-node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-valente/happy_budget.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "VanillaJs"
+  ],
+  "author": "Ricardo Valente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardo-valente/happy_budget/issues"
+  },
+  "homepage": "https://github.com/ricardo-valente/happy_budget#readme"
+}
