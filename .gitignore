@@ -2,4 +2,6 @@
 .tmp
 .DS_Store
 
+.babelrc
+
 *.code-workspace
